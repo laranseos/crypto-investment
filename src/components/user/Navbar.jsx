@@ -7,6 +7,7 @@ import { HiBellAlert } from 'react-icons/hi2'
 import QRCode from 'react-qr-code'
 import 'react-toastify/dist/ReactToastify.css'
 import './navbar.css'
+import IconCurrencyDollar from './IconCurrencyDollar'
 
 import { useSelector } from 'react-redux'
 
